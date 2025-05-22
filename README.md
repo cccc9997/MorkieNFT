@@ -1,5 +1,5 @@
 
-# MorkieNFT
+# Morkie NFT
 
 **Auto Minting Morkie NFT**  
 A Python script for automating the minting process of Morkie NFTs.
